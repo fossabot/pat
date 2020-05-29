@@ -7,6 +7,8 @@
 #######################################################################################
 
 ## LISTA CARTELLE
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flibremente%2Fpat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flibremente%2Fpat?ref=badge_shield)
+
 
 ---database 
 struttura di configurazione del DB PAT
@@ -53,3 +55,7 @@ esplicite o implicite.
 Si veda la Licenza per la lingua specifica che disciplina
 le autorizzazioni e le limitazioni secondo i termini della
 Licenza.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flibremente%2Fpat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flibremente%2Fpat?ref=badge_large)
